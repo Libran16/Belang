@@ -1,0 +1,18 @@
+
+=== Fri Mar 29 22:18:51 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.inputsystem from version 1.4.4 to 1.5.0
+  com.unity.render-pipelines.universal from version 12.1.6 to 12.1.10
+
+=== Sat Apr  6 15:55:24 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.inputsystem from version 1.4.4 to 1.5.0
+  com.unity.render-pipelines.universal from version 12.1.6 to 12.1.10
